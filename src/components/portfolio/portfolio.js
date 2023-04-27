@@ -1,7 +1,7 @@
 import React from "react";
 
-const footer = () => {
+const portfolio = () => {
   return <div></div>;
 };
 
-export default footer;
+export default portfolio;
