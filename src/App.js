@@ -1,25 +1,23 @@
-//import logo from "./logo.svg";
-import header from "./components/header/header";
-import navbar from "./components/navbar/navbar";
-import about from "./components/about/about";
-import section from "./components/section/section";
-import portfolio from "./components/portfolio/portfolio";
-import footer from "./components/footer/footer";
-import contact from "./components/contact/contact";
+import React from "react";
+import "./App.css";
+import Header from "./components/Header";
+import Navbar from "./components/Navbar";
+import About from "./components/About";
+import Portfolio from "./components/Portfolio";
+import Footer from "./components/Footer";
+import Contact from "./components/Contact";
 import "./App.css";
 
-const App = () => {
+function App() {
   return (
-    <>
-      <header />
-      <navbar />
-      <about />
-      <section />
-      <portfolio />
-      <footer />
-      <contact />
-    </>
+    <div>
+      <Navbar />
+      <Header />
+      <About />
+      <Portfolio />
+      <Contact />
+      <Footer />
+    </div>
   );
-};
-
+}
 export default App;
