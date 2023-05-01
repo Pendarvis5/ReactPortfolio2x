@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="container">
         <div className="footer fixed-bottom">
           <a
-            href="https://www.linkedin.com/"
+            href="https://www.linkedin.com"
             target="_blank"
             rel="noreferrer"
             className="nav-link"
