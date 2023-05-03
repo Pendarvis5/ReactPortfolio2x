@@ -8,9 +8,15 @@ export default function About() {
 
       <p>
         I am a Full Stack Developer transiting into the world of tech from
-        policing the streets of Houston, TX. A forever athlete who thrives in
-        competitive enviorments yet blossoms within the confines of a team.
-        Skills include React, MongoDb, Javascript,MySQL!
+        policing the streets of Houston, TX.{" "}
+      </p>
+
+      <p>
+        A forever athlete who thrives in competitive enviorments yet blossoms{" "}
+      </p>
+      <p>
+        within the confines of a team. Skills include React, MongoDb,
+        Javascript,MySQL!
       </p>
     </div>
   );
