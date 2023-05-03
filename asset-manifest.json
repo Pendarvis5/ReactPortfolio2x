@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ReactPortfolio2x/static/css/main.7cb442e3.css",
+    "main.js": "/ReactPortfolio2x/static/js/main.26c71420.js",
+    "static/js/787.5a1ffe2b.chunk.js": "/ReactPortfolio2x/static/js/787.5a1ffe2b.chunk.js",
+    "static/media/City-bikes.png": "/ReactPortfolio2x/static/media/City-bikes.14427d1c880176ba4ee9.png",
+    "static/media/myImage.jpg": "/ReactPortfolio2x/static/media/myImage.0c1ff047621e78adcf8f.jpg",
+    "static/media/notetaker.png": "/ReactPortfolio2x/static/media/notetaker.b2d68f4eb9a8f734d1d3.png",
+    "static/media/image.png": "/ReactPortfolio2x/static/media/image.20612c150407a3d6e5d5.png",
+    "index.html": "/ReactPortfolio2x/index.html",
+    "main.7cb442e3.css.map": "/ReactPortfolio2x/static/css/main.7cb442e3.css.map",
+    "main.26c71420.js.map": "/ReactPortfolio2x/static/js/main.26c71420.js.map",
+    "787.5a1ffe2b.chunk.js.map": "/ReactPortfolio2x/static/js/787.5a1ffe2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cb442e3.css",
+    "static/js/main.26c71420.js"
+  ]
+}
